@@ -1,0 +1,2 @@
+# lizbot
+Discord Bot
